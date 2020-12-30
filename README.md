@@ -31,5 +31,19 @@ abstract description of a design problem and how a general arrangement of elemen
 The consequences for software often concern space and time tradeoffs.They may address language and implementation issues as well. Since reuse is often a factor in object-oriented design, the
 consequences of a pattern include its impact on a system’s flexibility, extensibility, or portability. Listing these consequences
 explicitly helps you understand and evaluate them.
+### Why use them?
+##### Flexibility:
+Using design patterns your code becomes flexible. It helps to provide the correct level of abstraction due to which
+objects become loosely coupled to each other which makes your code easy to change.
+##### Reusability:
+Loosely coupled and cohesive objects and classes can make your code more reusable. This kind of code becomes
+easy to be tested as compared to the highly coupled code.
+##### Shared Vocabulary: 
+Shared vocabulary makes it easy to share your code and thought with other team members. It creates more
+understanding between the team members related to the code.
+##### Capture best practices:
+Design patterns capture solutions which have been successfully applied to problems. By learning these
+patterns and the related problem, an inexperienced developer learns a lot about software design.
+
 
 
