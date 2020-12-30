@@ -44,6 +44,11 @@ understanding between the team members related to the code.
 ##### Capture best practices:
 Design patterns capture solutions which have been successfully applied to problems. By learning these
 patterns and the related problem, an inexperienced developer learns a lot about software design.
+#### Categorization of patterns
+Design patterns can be categorized in the following categories:
+##### .Creational patterns
+##### .Structural patterns
+##### .Behavior patterns
 
 
 
